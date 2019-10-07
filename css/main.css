@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.botao{
+    background-color: black;
+    size: 50px;
+}
+.buttontext{
+    text-decoration-color: blue;
+    background-size: 50px;
+    background-color: brown; 
+}
